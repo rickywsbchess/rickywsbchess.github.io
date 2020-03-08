@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "FIDE INSTRUCTOR吴思博"
-description: "GET MORE THAN CHESS " 
+title: "About"
+description: "你的博客描述 " 
 header-img: "img/green.jpg"
 ---
 
